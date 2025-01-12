@@ -1,1 +1,2 @@
-# my-xray-website
+# my-xray-websiteThe purpose of this website is to showcase expertise in X-ray technology by presenting knowledge, innovative projects, and AI tools that enhance medical imaging and diagnostics. It serves as a platform to educate visitors about X-ray applications, demonstrate advancements in AI-driven analysis, and highlight personal contributions to the field, fostering understanding and collaboration in the healthcare and technology sectors.
+The website is designed for a diverse audience, including healthcare professionals seeking insights into X-ray technology, students exploring radiology and medical imaging, and enthusiasts interested in the latest advancements in AI-driven diagnostics and X-ray applications.
